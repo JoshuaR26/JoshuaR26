@@ -1,4 +1,4 @@
-![HelloThere](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNwNWx2dm9tYmE4bGwwb3BhaTc1bDdmempmandycTB1ZzRqZ292ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif)
+
 <img align="centre" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNwNWx2dm9tYmE4bGwwb3BhaTc1bDdmempmandycTB1ZzRqZ292ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif">
 
 # About Me:
